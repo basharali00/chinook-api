@@ -1,7 +1,8 @@
 # Chinook SQLite Database API
-This is an API Chinook DB. It also supports rate limiting
+This is an API Chinook DB. The API is built based on these technologies: 
+- FastAPI
+- SQLAlchemy
+- Pydantic
 
-# Why Rate Limiting
-Rate limiter design is useful to solve such kinds of problem where...
-
-# Rate Limiting Algorithms
+# Purpose
+Its purpose it to implement rate limiting algorithms and other backend design techniques 
